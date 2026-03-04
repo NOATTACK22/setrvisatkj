@@ -17,6 +17,12 @@
                 "1D909270"
             ],
             "status": "RUNNING"
+        },
+        "rt": {
+            "flash_ids": [
+                "1D909270"
+            ],
+            "status": "RUNNING"
         }
     },
     "global_lock": false
