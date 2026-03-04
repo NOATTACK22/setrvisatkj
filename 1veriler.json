@@ -19,9 +19,7 @@
             "status": "RUNNING"
         },
         "rt": {
-            "flash_ids": [
-                "1D909270"
-            ],
+            "flash_ids": [],
             "status": "RUNNING"
         }
     },
