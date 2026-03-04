@@ -1,4 +1,11 @@
 {
-    "kullanicilar": {},
+    "kullanicilar": {
+        "anan": {
+            "flash_ids": [
+                "7E587E06"
+            ],
+            "status": "RUNNING"
+        }
+    },
     "global_lock": false
 }
